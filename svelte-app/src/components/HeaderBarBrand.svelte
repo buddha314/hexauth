@@ -1,7 +1,7 @@
 <div class="navbar-brand">
   <a
     class="navbar-item"
-    href="https://svelte.dev/"
+    href="https://hexas.com/"
     target="_blank"
     rel="noopener noreferrer">
     <img src="./favicon.png" alt="Hexas Biomass" />
