@@ -4,11 +4,11 @@
     href="https://svelte.dev/"
     target="_blank"
     rel="noopener noreferrer">
-    <img src="./svelte-icon.png" alt="Svelte" />
+    <img src="./favicon.png" alt="Hexas Biomass" />
   </a>
   <router-link to="/" class="navbar-item nav-home">
-    <span class="brand-first">MY</span>
-    <span class="brand-second">SHOPPING</span>
-    <span class="brand-third">LIST</span>
+    <span class="brand-first">HEXAS</span>
+    <span class="brand-second">BIOMASS</span>
+    <span class="brand-third">PLANNER</span>
   </router-link>
 </div>

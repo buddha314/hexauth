@@ -36,7 +36,6 @@
     <p class="menu-label">Menu</p>
     <ul class="menu-list">
       <Link to="/calculator" {getProps}>Calculator</Link>
-      <Link to="/products" {getProps}>Products</Link>
       <Link to="/about" {getProps}>About</Link>
     </ul>
   </nav>
